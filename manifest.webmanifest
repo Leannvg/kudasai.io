@@ -1,0 +1,31 @@
+{
+  "theme_color": "#40372F",
+  "background_color": "#C4F2EA",
+  "display": "fullscreen",
+  "scope": "/kudasai/",
+  "start_url": "/kudasai/index.html",
+  "name": "Kudasai",
+  "short_name": "Kudasai",
+  "icons": [
+    {
+      "src": "/kudasai/img/icon-192x192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/kudasai/img/icon-256x256.png",
+      "sizes": "256x256",
+      "type": "image/png"
+    },
+    {
+      "src": "/kudasai/img/icon-384x384.png",
+      "sizes": "384x384",
+      "type": "image/png"
+    },
+    {
+      "src": "/kudasai/img/icon-512x512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}

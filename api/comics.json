@@ -1,0 +1,242 @@
+[
+  {
+    "id": 1,
+    "titulo": "Pesadillas",
+    "imagen": "img/pesadillas.jpg",
+    "argumento": "Una serie de accidentes, asesinatos y suicidios misterios e inexplicables dan lugar a una investigación policial en una inmensa urbanización residencial. Pronto descubriremos que se debe al continuo enfrentamiento de una niña y un viejo, ambos habitantes del complejo urbanístico y poseedores de grandes poderes telequinéticos, los cuales mantendrán una lucha constante durante toda la historia, bien sea manipulando las mentes o cuerpos de otros para matar, como moviendo enseres o destruyendo tabiques. Miedo y horror de la mano de lo paranormal.",
+    "autor": "Katsuhiro Otomo",
+    "editorial": "Norma Editorial",
+    "publicacion": "Diciembre de 2003",
+    "volumenes": "Tomo Único"
+  },
+  {
+    "id": 2,
+    "titulo": "Predestinada",
+    "imagen": "img/predestinada.jpg",
+    "argumento": "En este volumen se reúnen tres de sus historias cortas, que dan fe de su gran versatilidad y destreza como narradora, cada una de un género distinto y con el único punto en común del protagonismo de las figuras femeninas. Yamashita nos ofrece una dosis de terror psicológico en Invencible, retuerce el cliché del triángulo amoroso en Tú eres la estrella y, por último, se recrea en un cuento futurista con aires de Ghibli y ritmo hollywoodiense en La princesa sin maleficio y el prisionero en la atalaya. Una recopilación en que la autora nos mantiene pegados al papel con su agilísima narrativa, y donde cada historia es un universo repleto de evocación y osadía.",
+    "autor": "Tomoko Yamashita (Guión, Dibujo, Tinta)",
+    "editorial": "Ediciones Tomodomo",
+    "publicacion": "01 de noviembre de 2017",
+    "volumenes": "Tomo Único"
+  },
+  {
+    "id": 3,
+    "titulo": "Fire Punch",
+    "imagen": "img/firepunch.jpg",
+    "argumento": "La bruja del hielo” es la culpable de que todo haya quedado cubierto completamente por la nieve, la locura y el hambre mientras que la población mundial, congelada, suspira por unas llamas. En este mundo, Agni y su hermana pequeña, Luna, son dos muchachos que han sido bendecidos con la capacidad de la regeneración. ¡¿Qué atroz futuro les espera a estos dos hermanos sin familia alguna?!",
+    "autor": "Tatsuki Fujimoto (Guión, Dibujo, Tinta)",
+    "editorial": "Norma Editorial",
+    "publicacion": "31 de octubre de 2017",
+    "volumenes": "8 Tomos"
+  },
+  {
+    "id": 4,
+    "titulo": "Death Note: Short Stories",
+    "imagen": "img/deathnote.jpg",
+    "argumento": "Precuelas, secuelas y hasta 4-komas inéditos componen este libro que no puede faltar en la biblioteca de cualquier fan de Death Note. Incluye las historias The C-Kira y The A-Kira que continúan la historia en donde se había quedado el manga original, el episodio piloto que sirvió de base para la serialización de Death Note en la Shonen Jump y dos historias cortas sobre el pasado de L en la Wammy House.",
+    "autor": "Tsugumi Ohba (Guión), Takeshi Obata (Dibujo, Tinta)",
+    "editorial": "Editorial Ivrea",
+    "publicacion": "30 de diciembre de 2021",
+    "volumenes": "Tomo Único"
+  },
+  {
+    "id": 5,
+    "titulo": "My Capricorn Friend",
+    "imagen": "img/capricorn.jpg",
+    "argumento": "Dos adolescentes, compañeros de una escuela en la que el acoso escolar y la violencia entre pares son moneda corriente, terminan entrelazados por un único evento que cambia por completo su futuro: Yuuya Matsuda se topa una noche fatídica con Naoko Wakatsuki, otro chico de su misma escuela víctima constante de bullying; una más entre miles a quienes golpean, acosan, violan y se ven obligados a cometer atrocidades. Pero esa noche, Wakatsuki se cansó y prefirió convertirse en victimario antes que seguir siendo víctima. Yuuya, lleno de culpa por siempre mirar al costado, decide ser su cómplice y convencerlo de escapar. Pero con el mundo real por delante, al final del camino una verdad inevitable los espera.",
+    "autor": "Otsuichi (Guión), Masaru Miyokawa (Dibujo)",
+    "editorial": "Editorial Ivrea",
+    "publicacion": "20 de marzo de 2020",
+    "volumenes": "Tomo Único"
+  },
+  {
+    "id": 6,
+    "titulo": "What a Wonderful World!",
+    "imagen": "img/wonderful.jpg",
+    "argumento": "What a wonderful world nos muestra como nuestro mundo puede ser tan precioso como horrible, donde los altibajos son moneda corriente y lo que para algunos es ridículo para otros es sublime. Asano desarrolla diferentes historias donde la cruda realidad de la sociedad moderna se mezcla con algo de fantasía, para entender el valor de la vida sin descuidar el caos en el que vivimos.",
+    "autor": "Inio Asano (Guión, Dibujo)",
+    "editorial": "Editorial Ivrea",
+    "publicacion": "22 de enero de 2021",
+    "volumenes": "Tomo Único"
+  },
+  {
+    "id": 7,
+    "titulo": "20th Century Boys",
+    "imagen": "img/century.jpg",
+    "argumento": "Kenji Endo era un joven con deseos de convertirse en estrella de rock, pero que se ve forzado a dedicarse al negocio familiar -ex licorería- y a criar a su sobrinita, ya que su hermana se marchó cuando ella todavía era bebé. Un día descubre que un amigo de la infancia, Donkey, se suicidó sin explicación alguna. Kenji comienza a sospechar que hubo algo raro en eso cuando recibe una carta póstuma suya, en la que le dice de reencontrarse algún día, y que encima incluye un dibujo muy extraño y a la vez familiar con la pregunta ¿te acordás de este símbolo?. Kenji comienza a pensar que el supuesto suicido es en realidad un asesinato encubierto, y va en busca de la verdad, y para ello decide reunir a sus viejos amigos.",
+    "autor": "Naoki Urasawa (Guión, Dibujo)",
+    "editorial": "Editorial Ivrea",
+    "publicacion": "29 de enero de 2021",
+    "volumenes": "11 Tomos"
+  },
+  {
+    "id": 8,
+    "titulo": "Museum",
+    "imagen": "img/museum.jpg",
+    "argumento": "Un sanguinario asesino tiene en vilo a la policía, que no posee ninguna pista sobre su identidad, sus motivos o ni siquiera quién puede ser su próxima víctima. Tan solo se sabe que oculta su rostro tras una macabra máscara en forma de rana y que sus métodos son extremadamente violentos.",
+    "autor": "Ryousuke Tomoe (Guión, Dibujo, Tinta)",
+    "editorial": "Norma Editorial",
+    "publicacion": "11 de abril de 2016",
+    "volumenes": "3 Tomos"
+  },
+  {
+    "id": 9,
+    "titulo": "Museum #2",
+    "imagen": "img/museum2.jpg",
+    "argumento": "SEGUNDO VOLUMEN DE ESTE THRILLER PROTAGONIZADO POR UN DESPIADADO ASESINO EN SERIE. El inspector de policía Sawamura está decidido a detener al brutal asesino que está sembrando el terror entre la población. Y es que, por si no bastara con sus atroces crímenes, el despiadado asesino tiene un nuevo objetivo: la familia de su perseguidor.",
+    "autor": "Ryousuke Tomoe (Guión, Dibujo, Tinta)",
+    "editorial": "Norma Editorial",
+    "publicacion": "11 de abril de 2016",
+    "volumenes": "3 Tomos"
+  },
+  {
+    "id": 10,
+    "titulo": "Museum #3",
+    "imagen": "img/museum3.jpg",
+    "argumento": "¡ÚLTIMO VOLUMEN DE ESTE APASIONANTE MANGA DE INTRIGA!. La persecución llega a su ﬁn con el brutal enfrentamiento entre el inspector Sawamura y el cruel asesino en serie que mata oculto tras una máscara de rana. ¿Se desvelarán los motivos ocultos tras los sangrientos crímenes?. La primera edición trae de regalo un cofre (estuche de cartón con imagenes impresas a ambos lados)",
+    "autor": "Ryousuke Tomoe (Guión, Dibujo, Tinta)",
+    "editorial": "Norma Editorial",
+    "publicacion": "11 de abril de 2016",
+    "volumenes": "3 Tomos"
+  },
+  {
+    "id": 11,
+    "titulo": "All You Need Is Kill",
+    "imagen": "img/kill.jpg",
+    "argumento": "La Tierra se encuentra bajo el ataque de los misteriosos extraterrestres conocidos como 'Mimics'. Keiji Kiriya es un soldado novato que desea acabar con ellos para liberar al planeta, admira a Rita Vrataski, la supersoldado que más victorias ha conseguido en esta lucha. Keiji muere durante su primera batalla pero despierta un día antes del evento y el ciclo de muertes y resurrecciones no parece tener fin. Descubre esta historia que inspiró la película 'Al borde del mañana'.",
+    "autor": "Ryosuke Takeuchi (Guión), Takeshi Obata (Dibujo, Tinta)",
+    "editorial": "Panini Comics",
+    "publicacion": "04 de febrero de 2022",
+    "volumenes": "2 Tomos"
+  },
+  {
+    "id": 12,
+    "titulo": "Hideout",
+    "imagen": "img/hideout.jpg",
+    "argumento": "La historia arranca en una isla remota durante una noche de tormenta torrencial. El escritor Seiichi Kirishima viaja con su mujer hasta allá, determinado a rehacer su vida luego de la terrible tragedia que acaban de vivir. Y nada mejor que un crimen para comenzar de nuevo; y una cueva oscura parece el lugar ideal para perpetrarlo. Poco tiempo atrás era un hombre feliz, con cierto reconocimiento por sus trabajos y padre de un hermoso hijo. Pero ahora todo eso cambió, y comienza a caer por una espiral decadente donde ningún tabú refrenará sus impulsos más bajos. Para narrar su descenso al infierno escribe las páginas de la que seguro sea su última novela. Una imperdible obra para los amantes del suspenso y el terror, condensada en un tomo único en formato B6 con sobrecubierta incluyendo varias páginas color.",
+    "autor": "Masasumi Kakizaki (Guión, Dibujo, Tinta, Color)",
+    "editorial": "Editorial Ivrea",
+    "publicacion": "11 de octubre de 2019",
+    "volumenes": "Tomo Único"
+  },
+  {
+    "id": 13,
+    "titulo": "Una sonrisa hasta el fin del mundo",
+    "imagen": "img/sonrisa.jpg",
+    "argumento": "En una época en la que el mundo se ha sumido en la oscuridad y se dirige a su destrucción, aparecen unos individuos temibles a los que la gente llama “demonios”.¿Qué es lo que traen a este mundo? ¿Esperanza? ¿O desesperación?. Nos precipitamos al fin del mundo siguiendo las andanzas de un demonio y una niña que aparecen repentinamente en un pueblo.",
+    "autor": "Yellow Tanabe (Guión, Dibujo, Tinta)",
+    "editorial": "Milky Way Ediciones",
+    "publicacion": "25 de septiembre de 2017",
+    "volumenes": "Tomo Único"
+  },
+  {
+    "id": 14,
+    "titulo": "The Mark of Watzel",
+    "imagen": "img/watzel.jpg",
+    "argumento": "Jason había sido un actor muy popular gracias a la serie de televisión The Mark of Watzel, pero ahora no es más que un estafador de medio pelo. Entonces le llega un encargo: “Quiero que engañe a mi hija, Erin, que está enferma y solo le quedan unos meses de vida”. Erin es una gran fan de The Mark of Watzel. ¿Logrará Jason volver a ser el héroe al que Erin tanto admira?",
+    "autor": "Tomo Taketomi (Guión, Dibujo, Tinta)",
+    "editorial": "Milky Way Ediciones",
+    "publicacion": "27 de julio de 2017",
+    "volumenes": "Tomo Único"
+  },
+  {
+    "id": 15,
+    "titulo": "Mushihime",
+    "imagen": "img/mushihime.jpg",
+    "argumento": "Ryoichi ve en sus sueños algo perturbador: decenas de cadáveres y una mujer grotesca que se lo quiere comer. Un día, aparece en su clase Kikuko, que es igualita a la chica de sus sueños. Después de protegerla de un ataque, decide llevarla a su casa y ahí es donde empieza su auténtica pesadilla. ¡Mushihime es una serie de terror con un contraste brutal entre el horror y la belleza!",
+    "autor": "Masaya Hokazono (Guión), Yuu Satomi (Dibujo, Tinta)",
+    "editorial": "Editorial Ivrea",
+    "publicacion": "03 de diciembre de 2021",
+    "volumenes": "3 Tomos"
+  },
+  {
+    "id": 16,
+    "titulo": "Reverberación",
+    "imagen": "img/reverberacion.jpg",
+    "argumento": "Al lado del cuchitril en el que reside Satoru vive Segawa, un anciano exmiembro de la yakuza. Un buen día, su vecino le pide un favor: “Mátame y te daré cinco millones”. Al joven lo corroe la duda y su corazón comienza a ceder ante sus deseos más oscuros. La locura que habita en su interior empieza a aflorar... ¿Qué camino elegirá ahora que es consciente de su verdadera naturaleza?",
+    "autor": "Tsutomu Takahashi",
+    "editorial": "Norma Editorial",
+    "publicacion": "05 de febrero de 2021",
+    "volumenes": "3 Tomos"
+  },
+  {
+    "id": 17,
+    "titulo": "Dead Dead Demons Dededede Destruction",
+    "imagen": "img/dedede.jpg",
+    "argumento": "El último trabajo de Asano nos sitúa en Tokio, siguiendo las vivencias de dos alumnas de instituto. Pese a sus ideas rocambolescas, lo realmente extraño es la situación en la que viven: la de la capital japonesa invadida por gigantescos platillos volantes…",
+    "autor": "Inio Asano (Guión, Dibujo, Tinta)",
+    "editorial": "Norma Editorial",
+    "publicacion": "29 de octubre de 2015",
+    "volumenes": "9 Tomos"
+  },
+  {
+    "id": 18,
+    "titulo": "Solanin",
+    "imagen": "img/solanin.jpg",
+    "argumento": "Solanin narra la historia de Meiko Inoue, una oficinista que trabaja incansablemente desde que egresó de la universidad. Sus días transcurren entre su trabajo, donde los compañeros y su jefe no paran de molestarla, y su casa, que comparte con su novio subempleado (alias tiene un laburo de mierda). Harta de la rutina, Meiko decide renunciar con la idea de poder mantenerse -y a su novio también- con los ahorros que juntó, al menos por un año. Pero esto la hará replantearse lo aburrido que puede ser ir por la vida sin un rumbo fijo. Este manga con tintes autobiográficos es una de las obras más personales y realistas de Asano, que no casualmente lo erigió como uno de los representantes más emblemáticos de su generación.",
+    "autor": "Inio Asano (Guión, Dibujo)",
+    "editorial": "Ivrea Argentina",
+    "publicacion": "18 de octubre de 2019",
+    "volumenes": "Tomo Único"
+  },
+  {
+    "id": 19,
+    "titulo": "¿Quién es el 11º pasajero?",
+    "imagen": "img/pasajero.jpg",
+    "argumento": "Todos los candidatos a ingresar en la Universidad Estelar, escogidos entre lo más granado de las civilizaciones de la galaxia, son agrupados en 70 grupos de diez para enfrentarse a una prueba final que valorará si merecen el honor de considerarse válidos para dicha institución. Para el grupo 22, la prueba consiste en sobrevivir encerrados en una nave a la deriva que orbita alrededor de un planeta deshabitado. Cada uno de los miembros se juega mucho en este examen, pero si tan sólo uno de ellos se da por vencido, todos suspenderán. Nada más atravesar las puertas de la nave, se dan cuenta de que algo va mal: no son diez, sino once personas allí. ¿Quién es el undécimo pasajero?",
+    "autor": "Moto Hagio (Guión, Dibujo, Tinta)",
+    "editorial": "Ediciones Tomodomo",
+    "publicacion": "29 de octubre de 2016",
+    "volumenes": "Tomo Único"
+  },
+  {
+    "id": 20,
+    "titulo": "Catarsis",
+    "imagen": "img/catarsis.jpg",
+    "argumento": "En Catarsis, la dibujante recopila varias de sus historias cortas, que abarcan desde los inicios de su carrera, en la década de los setenta, hasta los años noventa. Entre ellos se encuentran algunos de sus relatos más aclamados, como Mitad, o La niña iguana, sobre una hija cuya madre se niega a amarla. Todos se centran en explorar el lado oscuro del ser humano, pero haciendo uso de la estética delicada y preciosista del manga para chicas, en una unión contradictoriamente perfecta. En ellos, la ciencia ficción es sustituida por un costumbrismo en el que siguen presentes los temas sociales de ¿Quién es el 11º pasajero?, pero sin perder un punto fantástico que sirve de nexo entre lo grotesco y lo poético.",
+    "autor": "Moto Hagio (Guión, Dibujo, Tinta)",
+    "editorial": "Ediciones Tomodomo",
+    "publicacion": "05 de noviembre de 2018",
+    "volumenes": "Tomo Único"
+  },
+  {
+    "id": 21,
+    "titulo": "Comercios de Tokio",
+    "imagen": "img/comercios.jpg",
+    "argumento": "Las acuarelas de este álbum presentan una guía de las tiendecitas y restaurantes más retro y encantadores de Tokio. Rincones de gran belleza, para los que parece que se ha detenido el tiempo, pero que a la vez están desapareciendo, engullidos por la moderna capital. Un libro lleno de detalles curiosos sobre la cultura y la arquitectura japonesas, que también incluye mapas y una explicación detallada sobre los materiales y el proceso creativo de las ilustraciones. (Fuente: Tomodomo)",
+    "autor": "Mateusz Urbanowicz",
+    "editorial": "Ediciones Tomodomo",
+    "publicacion": "14 de diciembre de 2020",
+    "volumenes": "Tomo Único"
+  },
+  {
+    "id": 22,
+    "titulo": "All You Need Is Kill #2",
+    "imagen": "img/kill2.jpg",
+    "argumento": "De alguna manera, Keiji ha logrado sacar provecho del bucle para ganar experiencia como soldado y crecer al nivel de Rita Vrataski. Los cambios en el bucle demuestran que los Mimics también saben de él y buscan aprovecharlo a su favor. Se aproxima la última gran batalla de Rita y Keiji contra los Mimics y la influencia del bucle. ¿Cómo será todo cuando logren romper el ciclo?",
+    "autor": "Ryosuke Takeuchi (Guión), Takeshi Obata (Dibujo, Tinta)",
+    "editorial": "Panini Comics",
+    "publicacion": "04 de febrero de 2022",
+    "volumenes": "2 Tomos"
+  },
+  {
+    "id": 23,
+    "titulo": "Los dioses mienten",
+    "imagen": "img/dioses.jpg",
+    "argumento": "Corría el verano en que Natsuru tenía once años. Desde que rechazó a una compañera de clase el día de San Valentín, las chicas de su colegio no han vuelto a dirigirle la palabra, y decidieron desde entonces, ignorarle por completo. Pero justo antes de las vacaciones, todo cambia. Suzumura, la chica más alta de su clase, de repente, le habla. Ambos comenzarán un tierna relación de amistad, pero Natsuru pronto descubrirá que Suzumura esconde un terrible secreto.",
+    "autor": "Kaori Ozaki (Guión, Dibujo, Tinta)",
+    "editorial": "Milky Way Ediciones",
+    "publicacion": "25 de noviembre de 2014",
+    "volumenes": "Tomo Único"
+  },
+  {
+    "id": 24,
+    "titulo": "El príncipe del mar",
+    "imagen": "img/principe.jpg",
+    "argumento": "Mugi se ha mudado a una isla del sur de Japón, pero no termina de hacerse al lugar. Es por eso que Matori, su compañera de clase, no le deja solo ni un instante. Una noche, Mugi se queda a dormir en casa de Matori. Es entonces cuando su abuela les cuenta la historia de unas sirenas capaces de cumplir cualquier deseo… Ametsukigahara y Un día de nieve sirven de antesala a esta conmovedora historia.'Incluye tres historias cortas: 'El príncipe del mar' (3 capítulos), 'Ametsukigahara' (2 capítulos) y 'Un día de nieve'(1 capítulo).",
+    "autor": "Kaori Ozaki (Guión, Dibujo, Tinta)",
+    "editorial": "Milky Way Ediciones",
+    "publicacion": "28 de junio de 2016",
+    "volumenes": "Tomo Único"
+  }
+]

@@ -1,0 +1,384 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+#banner {
+  background-image: url("../img/banner.png");
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  height: 15vw;
+}
+
+.card {
+  border: 0px;
+  width: 25%;
+}
+
+.nav-item {
+  margin: 0px 1rem;
+  text-align: center;
+}
+
+#buscador {
+  width: 92%;
+  height: 56px;
+  left: 403px;
+  top: 744px;
+  border: 0px;
+  border-radius: 20px;
+  background-color: #f0f0f0;
+  padding-left: 30px;
+}
+
+.buscar {
+  width: 56px;
+  height: 56px;
+  margin-left: 16px;
+  background-image: url("../img/lupa.png");
+  background-repeat: no-repeat;
+  background-color: none;
+  transition: 600ms;
+}
+
+.buscar:hover {
+  transition: 250ms;
+  background-image: url("../img/lupa2.png");
+  background-repeat: no-repeat;
+  background-color: none;
+}
+
+.botonera a {
+  color: black;
+  text-decoration: none;
+  padding: 10px;
+  font-size: 1.2rem;
+  margin-right: 10px;
+  height: 50px;
+}
+
+.botonera a:hover {
+  transition: 250ms;
+  border-bottom: #4c4137 6px solid;
+}
+
+.botonera a:focus {
+  border-bottom: #4c4137 6px solid;
+}
+
+.card {
+  margin-bottom: 1rem;
+}
+
+.portadas {
+  width: 100%;
+  transition: 400ms;
+}
+
+.portadas:hover {
+  transition: 300ms;
+  filter: drop-shadow(0px 0px 6px rgb(46, 46, 46));
+}
+
+footer {
+  margin-top: 30px;
+  bottom: 0;
+  width: 100%;
+  height: 130px;
+  color: white;
+  background: #343434;
+}
+
+.ancla {
+  position: relative;
+  top: -100px;
+}
+
+.encontrado {
+  margin: 0 1% 0 1%;
+  max-width: 23%;
+}
+
+.titulodetalle {
+  width: 21vw;
+}
+
+.btnloquiero,
+.btnleido,
+.btbshare {
+  text-align: right;
+  text-decoration: none;
+  background-repeat: no-repeat;
+  background-position: center center;
+  transition: 300ms;
+  color: black;
+}
+
+.btnloquiero:hover,
+.btnleido:hover,
+.btbshare:hover {
+  transition: 200ms;
+  color: white;
+}
+
+.btnleer {
+  text-align: right;
+  text-decoration: none;
+  background-repeat: no-repeat;
+  background-position: center center;
+  transition: 300ms;
+  color: white;
+  padding: 16px 56px 16px 90px;
+  width: 185px;
+  height: 55px;
+  background-image: url("../img/leidohover.png");
+}
+
+.btnleer:hover {
+  transition: 200ms;
+  color: black;
+  background-image: url("../img/leido.png");
+}
+
+.btnlotengo {
+  text-align: right;
+  text-decoration: none;
+  background-repeat: no-repeat;
+  background-position: center center;
+  transition: 300ms;
+  color: white;
+  padding: 14px 35px 15px 64px;
+  width: 185px;
+  height: 55px;
+  background-image: url("../img/quierohover.png");
+}
+
+.btnlotengo:hover {
+  transition: 200ms;
+  color: black;
+  background-image: url("../img/quiero.png");
+}
+
+.btnloquiero {
+  padding: 14px 35px 15px 64px;
+  width: 185px;
+  height: 55px;
+  background-image: url("../img/quiero.png");
+}
+
+.btnloquiero:hover {
+  background-image: url("../img/quierohover.png");
+}
+
+.btnshare {
+  padding: 14px 35px 15px 64px;
+  width: 185px;
+  height: 55px;
+  text-align: right;
+  text-decoration: none;
+  background-repeat: no-repeat;
+  background-position: center center;
+  transition: 300ms;
+  color: black;
+  background-image: url("../img/compartir.png");
+}
+
+.btnshare:hover {
+  text-align: right;
+  text-decoration: none;
+  background-repeat: no-repeat;
+  background-position: center center;
+  transition: 300ms;
+  color: white;
+  background-image: url("../img/compartirhover.png");
+}
+
+.btnleido {
+  padding: 16px 56px 16px 90px;
+  width: 185px;
+  height: 55px;
+  background-image: url("../img/leido.png");
+}
+
+.btnleido:hover {
+  background-image: url("../img/leidohover.png");
+}
+
+h3 {
+  font-size: 1.2rem;
+}
+
+h3 ~ p {
+  font-size: 1rem;
+  color: #777777;
+}
+
+.argumento {
+  height: 330px;
+}
+
+.detalles1,
+.detalles2 {
+  width: 50%;
+}
+
+/* Perfil */
+
+#bannerperfil {
+  background-image: url("../img/banner.png");
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  height: 15vw;
+}
+
+.nameperfil {
+  width: 100%;
+  text-align: center;
+  font-size: 24px;
+  margin-top: -7rem;
+}
+
+.nameperfil > img {
+  max-width: 220px;
+}
+
+.botoneraperfil {
+  width: 100%;
+  padding: 0 7rem 0 7rem;
+}
+
+.botoneraperfil p {
+  color: black;
+  text-decoration: none;
+  padding-bottom: 10px;
+  font-size: 1.2rem;
+  border-bottom: #4c4137 6px solid;
+}
+
+.botoneraperfil p:hover {
+  transition: 250ms;
+  border-bottom: #4c4137 6px solid;
+}
+
+.botoneraperfil p:focus {
+  border-bottom: #4c4137 6px solid;
+}
+
+.coleccion {
+  margin: 0 1% 0 1%;
+  max-width: 14.66%;
+}
+
+.coleccion :nth-child(1) {
+  width: 100%;
+}
+
+.notfound {
+  text-align: center;
+  width: 100%;
+  font-size: 2.3rem;
+  margin: 6rem 0 6rem 0;
+}
+
+.detalleComic {
+  display: flex;
+}
+
+.detalleTexto {
+  margin-left: 3rem;
+}
+
+.install-app {
+  display: none;
+  cursor: pointer;
+  justify-content: center;
+}
+
+.share-app {
+  display: flex;
+  cursor: pointer;
+  justify-content: center;
+}
+
+#online {
+  width: 24px;
+  height: 24px;
+  background-image: url(../img/online.png);
+  background-repeat: no-repeat;
+  background-position: center center;
+  display: none;
+}
+
+#offline {
+  width: 24px;
+  height: 24px;
+  background-image: url(../img/offline.png);
+  background-repeat: no-repeat;
+  background-position: center center;
+  display: none;
+}
+
+.navbar-toggler {
+  margin: 0px 0px 0px 3em;
+}
+
+.page-item {
+  width: 8em;
+}
+
+@media screen and (max-width: 991px) {
+  .titulodetalle {
+    width: 40vw;
+  }
+
+  .encontrado {
+    margin: 0 1% 0 1%;
+    max-width: 31.3%;
+  }
+
+  .detalleComic {
+    display: flex;
+    flex-direction: column;
+  }
+
+  .imagen {
+    text-align: center;
+  }
+
+  .detalleTexto {
+    margin-top: 35px;
+    margin-left: 0rem;
+  }
+
+  .argumento {
+    height: auto;
+  }
+
+  .imagen img {
+    max-width: 70%;
+    margin: 0px 15% 0px 15%;
+  }
+
+  .nameperfil > img {
+    max-width: 120px;
+    margin: 80px 0px 0px 0px;
+  }
+
+  .botoneraperfil {
+    padding: 0;
+  }
+
+  .coleccion {
+    margin: 0 1% 0 1%;
+    max-width: 31.3%;
+  }
+}
+
+@media screen and (max-width: 768px) {
+  .card {
+    width: 50%;
+  }
+}
